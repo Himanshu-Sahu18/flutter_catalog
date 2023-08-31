@@ -1,0 +1,53 @@
+{    
+        "products": [
+          {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12 Pro with advanced camera system and A14 Bionic chip.",
+            "price": 999.99,
+            "color": "#33505a",
+            "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-61183/iphone-12-pro-blue-hero.jpg"
+          },
+          {
+            "id": 2,
+            "name": "AirPods Max",
+            "desc": "Apple AirPods Max with high-fidelity audio and active noise cancellation.",
+            "price": 549.99,
+            "color": "#00ac51",
+            "image": "https://help.apple.com/assets/61AFEC45FA5233173908347B/61B0509E1BF38548362237B5/en_US/b9f519195f84950573eea5088a49b964.png"
+          },
+          {
+            "id": 3,
+            "name": "MacBook M2 Chip",
+            "desc": "Apple MacBook with M2 chip, high performance, and Retina display.",
+            "price": 1299.99,
+            "color": "#e0bfae",
+            "image": "https://myradiantstore.com/storage/products/mac/6-540x600.png"
+          },
+          {
+            "id": 4,
+            "name": "PlayStation 5",
+            "desc": "Sony PlayStation 5 with ultra-fast SSD, 4K gaming, and DualSense controller.",
+            "price": 499.99,
+            "color": "#544ee4",
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1675760265/Croma%20Assets/Gaming/Gaming%20Consoles/Images/267452_ipcrdh.png?tr=w-600"
+          },
+          {
+            "id": 5,
+            "name": "JBL Pulse Speaker",
+            "desc": "JBL Pulse portablxe Bluetooth speaker with customizable light show.",
+            "price": 149.99,
+            "color": "#e3e4e9",
+            "image": "https://m.media-amazon.com/images/I/61g5ZuoTK2L.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Galaxy S22 Ultra",
+            "desc": "Cutting-edge flagship smartphone with advanced features, exceptional camera capabilities, and stunning display.",
+            "price": 1049.99,
+            "color": "#e3e4e9",
+            "image": "https://m.media-amazon.com/images/I/71J8tz0UeJL._AC_UF894,1000_QL80_.jpg"
+          }
+        ]
+}
+      
