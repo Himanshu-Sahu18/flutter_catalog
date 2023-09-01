@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       themeMode: ThemeMode.light,
       theme: ThemeData(
           primarySwatch: Colors.deepPurple,
-          fontFamily: GoogleFonts.lato().fontFamily,
+          fontFamily: GoogleFonts.poppins().fontFamily,
           appBarTheme: const AppBarTheme(
             backgroundColor: Colors.white,
             elevation: 0.0,
@@ -33,4 +33,8 @@ class MyApp extends StatelessWidget {
       },
     );
   }
+
+  //Colors
+  static Color creamColor = const Color(0xfff5f5f5);
+  static Color darkBluish = const Color(0xff403b58);
 }

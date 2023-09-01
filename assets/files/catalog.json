@@ -6,7 +6,7 @@
             "desc": "Apple iPhone 12 Pro with advanced camera system and A14 Bionic chip.",
             "price": 999.99,
             "color": "#33505a",
-            "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-61183/iphone-12-pro-blue-hero.jpg"
+            "image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG3.png"
           },
           {
             "id": 2,
@@ -38,7 +38,7 @@
             "desc": "JBL Pulse portablxe Bluetooth speaker with customizable light show.",
             "price": 149.99,
             "color": "#e3e4e9",
-            "image": "https://m.media-amazon.com/images/I/61g5ZuoTK2L.jpg"
+            "image": "https://www.harmanaudio.com.mx/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw79e2806b/JBL%20PULSE%205_06.png"
           },
           {
             "id": 6,
@@ -46,7 +46,7 @@
             "desc": "Cutting-edge flagship smartphone with advanced features, exceptional camera capabilities, and stunning display.",
             "price": 1049.99,
             "color": "#e3e4e9",
-            "image": "https://m.media-amazon.com/images/I/71J8tz0UeJL._AC_UF894,1000_QL80_.jpg"
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2202/gallery/in-galaxy-s22-ultra-s908-413016-sm-s908ezkginu-530969185"
           }
         ]
 }
